@@ -1,0 +1,14 @@
+body {
+	background-color: #000;
+	color: #33ff33;
+}
+
+.blogpost {
+	display: block;
+	width: 80%;
+	margin: 32px;
+	background-color: #2a2a2a;
+	border-style: inset;
+	border-width: 2px;
+	border-color: #000;
+}
